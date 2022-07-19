@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div.ingredients{
+    background-color: royalblue;
+    width: 400px;
+    font-weight: bold;
+}
+
